@@ -29,7 +29,7 @@ I have got a strong passion for **data** and everything that orbits around **AI*
 * LaTeX
 * Some math and statistics 🤭
 
-##  📫 Get in touch
+# Get in touch 📫
 <a href="https://www.linkedin.com/in/lorenzobalzani/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:balzanilo@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
