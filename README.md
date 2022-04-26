@@ -22,7 +22,7 @@ I have got a strong passion for **data** and everything that orbits around **AI*
 * Linux/Bash
 * Docker
 * MongoDB
-* Node.js (Express)
+* Node.js (also w/ Express)
 * HTML/JS/CSS
 * SQL
 * Java
@@ -37,5 +37,7 @@ I have got a strong passion for **data** and everything that orbits around **AI*
 <a href="mailto:balzanilo@icloud.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
 <a href="mailto:lorenzo.balzani@studio.unibo.it"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Seal_of_the_University_of_Bologna.svg/1920px-Seal_of_the_University_of_Bologna.svg.png" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
+<a href="https://lorenzobalzani.github.io/"><img src="https://images.vexels.com/media/users/3/205387/isolated/preview/9e5a4a16e78a187fc3e47fc6e2c5f03a-internet-website-icon-stroke.png" width="30px" alt="website"></a> 
 </br>
 If you have any question/feedback, please do not hesitate to reach out to me! 💬
