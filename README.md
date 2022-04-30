@@ -1,5 +1,5 @@
 # Hello there! 👋
-Hi everyone, I'm **Lorenzo Balzani**, a 23 years old motivated and enthusiastic student from Ravenna, Italy. I obtained my **Computer Science and Engineering BSc** from **University of Bologna** in October 2021, with a dissertation in Artificial Intelligence and NLP. Hence, in September 2022 I will begin a new journey as a MSc student in **Artificial Intelligence** at **University of Bologna**. In the meantime, I will be working as a summer **ML intern at Bonial, Berlin**.
+Hi everyone, I'm **Lorenzo Balzani**, a 23 years old motivated and enthusiastic student from Ravenna, Italy. I obtained my **Computer Science and Engineering BSc** from the **University of Bologna** in October 2021, with a dissertation in Artificial Intelligence and NLP. Hence, in September 2022 I will begin a new journey as an MSc student in **Artificial Intelligence** at the **University of Bologna**. In the meantime, I will be working as a summer **ML intern at Bonial, Berlin**.
 
 [![lorenzobalzani's github stats](https://github-readme-stats.vercel.app/api?username=lorenzobalzani&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
