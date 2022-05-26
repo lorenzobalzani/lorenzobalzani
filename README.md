@@ -40,4 +40,4 @@ I have got a strong passion for **data** and everything that orbits around **AI*
 &nbsp; &nbsp;
 <a href="https://lorenzobalzani.github.io/"><img src="https://images.vexels.com/media/users/3/205387/isolated/preview/9e5a4a16e78a187fc3e47fc6e2c5f03a-internet-website-icon-stroke.png" width="30px" alt="website"></a> 
 </br>
-If you have any question/feedback, please do not hesitate to reach out to me! 💬
+If you have any questions/feedback, please do not hesitate to reach out to me! 💬
