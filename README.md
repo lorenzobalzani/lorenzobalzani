@@ -22,7 +22,7 @@ Currently, I am pursuing an **MSc** in **Artificial Intelligence** at the **Univ
 </p>
 
 # Why am I here?
-Since I am a big *supporter* of [**deliberate practice**](https://www.calnewport.com/blog/2010/01/06/the-grandmaster-in-the-corner-office-what-the-study-of-chess-experts-teaches-us-about-building-a-remarkable-life), I constantly aim to exploit my strong passion for everything that orbits around **AI** to enhance my skills through projects mainly developed with Python and (sometimes) the following:
+Since I am a big *supporter* of [**deliberate practice**](https://www.calnewport.com/blog/2010/01/06/the-grandmaster-in-the-corner-office-what-the-study-of-chess-experts-teaches-us-about-building-a-remarkable-life), I constantly aim to exploit my strong passion for everything that orbits around **AI** to enhance my skills through projects mainly developed with Python and the following:
  
 * NumPy & SciPy for scientific computations
 * Pandas & parallel optimizations like Dask 
