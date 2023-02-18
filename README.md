@@ -1,5 +1,5 @@
 # Hello there! 👋
-Here's **Lorenzo**! I was born 23 years ago in Ravenna, a beautiful Italian city by the sea.
+Here's **Lorenzo**! I was born 24 years ago in Ravenna, a beautiful Italian city by the sea.
 Currently, I am pursuing an **MSc** in **Artificial Intelligence** at the **University of Bologna**. I own a **Computer Science and Engineering** background, given that I obtained my BSc in 2021 with a dissertation focused on NLP research, which afterward led to ["Text-to-Text Extraction and Verbalization of Biomedical Event Graphs"](https://aclanthology.org/2022.coling-1.238/).
 
 <!--
