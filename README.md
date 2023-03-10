@@ -1,4 +1,5 @@
 # Hello there! 👋
+
 Here's **Lorenzo**! I was born 24 years ago in Ravenna, a beautiful Italian city by the sea.
 Currently, I am pursuing an **MSc** in **Artificial Intelligence** at the **University of Bologna**. I own a **Computer Science and Engineering** background, given that I obtained my BSc in 2021 with a dissertation focused on NLP research, which afterward led to ["Text-to-Text Extraction and Verbalization of Biomedical Event Graphs"](https://aclanthology.org/2022.coling-1.238/).
 
@@ -15,7 +16,8 @@ Currently, I am pursuing an **MSc** in **Artificial Intelligence** at the **Univ
      <img src="https://github-readme-stats.vercel.app/api?username=lorenzobalzani&count_private=true&cache_seconds=1800" alt="Stats" title="Stats"/>
     </td>
     <td>
-     <h3> # visitors </h3> <img src="https://profile-counter.glitch.me/lorenzobalzani/count.svg" />
+     <p><img src="https://img.shields.io/github/followers/lorenzobalzani.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lorenzobalzani?tab=followers"</p>
+      <h3> # visitors </h3> <img src="https://profile-counter.glitch.me/lorenzobalzani/count.svg" />
    </td>
   </tr>
  </table>
