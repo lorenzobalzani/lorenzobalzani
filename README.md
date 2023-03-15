@@ -50,4 +50,4 @@ Whether you have questions or feedback, please do not hesitate to reach out to m
 &nbsp; &nbsp;
 
 ## Want to take a look at my resume?
-<a href="https://lorenzobalzani.github.io/resume.pdf"><img src="https://icon-library.com/images/resume-icon/resume-icon-16.jpg" width="30px" alt="resume"></a> 
+<a href="https://lorenzobalzani.github.io/resume"><img src="https://icon-library.com/images/resume-icon/resume-icon-16.jpg" width="30px" alt="resume"></a> 
