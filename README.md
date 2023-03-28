@@ -16,7 +16,7 @@ Currently, I am pursuing an **MSc** in **Artificial Intelligence** at the **Univ
      <img src="https://github-readme-stats.vercel.app/api?username=lorenzobalzani&count_private=true&cache_seconds=1800" alt="Stats" title="Stats"/>
     </td>
     <td>
-     <p><img src="https://img.shields.io/github/followers/lorenzobalzani.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lorenzobalzani?tab=followers"</p>
+     <!--<p><img src="https://img.shields.io/github/followers/lorenzobalzani.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lorenzobalzani?tab=followers"</p>-->
       <h3> # visitors </h3> <img src="https://profile-counter.glitch.me/lorenzobalzani/count.svg" />
    </td>
   </tr>
