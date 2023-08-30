@@ -3,26 +3,6 @@
 Here's **Lorenzo**! I was born 24 years ago in Ravenna, a beautiful Italian city by the sea.
 Currently, I am pursuing an **MSc** in **Artificial Intelligence** at the **University of Bologna**. I own a **Computer Science and Engineering** background, given that I obtained my BSc in 2021 with a dissertation focused on NLP research, which afterward led to ["Text-to-Text Extraction and Verbalization of Biomedical Event Graphs"](https://aclanthology.org/2022.coling-1.238/).
 
-<!--
-[![lorenzobalzani's github stats](https://github-readme-stats.vercel.app/api?username=lorenzobalzani&count_private=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lorenzobalzani.count_visitors)
-[![trophy](https://github-profile-trophy.vercel.app/?username=lorenzobalzani&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
--->
-
-<p align="center"> 
- <table style="border: 1px solid transparent">
-  <tr>
-    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=lorenzobalzani&count_private=true&cache_seconds=1800" alt="Stats" title="Stats"/>
-    </td>
-    <td>
-     <!--<p><img src="https://img.shields.io/github/followers/lorenzobalzani.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lorenzobalzani?tab=followers"</p>-->
-      <h3> # visitors </h3> <img src="https://profile-counter.glitch.me/lorenzobalzani/count.svg" />
-   </td>
-  </tr>
- </table>
-</p>
-
 # Why am I here?
 Since I am a big *supporter* of [**deliberate practice**](https://www.calnewport.com/blog/2010/01/06/the-grandmaster-in-the-corner-office-what-the-study-of-chess-experts-teaches-us-about-building-a-remarkable-life), I constantly aim to exploit my strong passion for everything that orbits around **AI** to enhance my skills through projects mainly developed with Python and the following:
  
@@ -36,7 +16,7 @@ Since I am a big *supporter* of [**deliberate practice**](https://www.calnewport
 * AWS tools, such as SageMaker, S3, Athena, ECS, EKS
 * Pgmpy for probabilistic modelling through Bayesian Networks
 * PROLOG for logic programming
-* MERN, my favourite web dev stack
+* MERN, my favorite web dev stack
 * $LaTeX$ for essays
 
 # Get in touch 📫
