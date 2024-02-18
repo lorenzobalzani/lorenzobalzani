@@ -1,17 +1,15 @@
 # Hello there! 👋
 
-Meet **Lorenzo**! 24 years old and hailing from the charming Italian coastal city of Ravenna.
-
-I'm an **NLP Data Scientist** equipped with a solid background in Computer Science and Engineering. Presently, I am a dedicated 2-year **MSc** student in **Artificial Intelligence** at the University of Bologna, fueling my passion to explore the depths of AI and NLP. Beyond my academic journey, I've been actively involved in hands-on NLP research. My passion lies in harnessing the potential of AI and NLP to fuel innovation and tackle intricate challenges.
+I'm Lorenzo, an **NLP Data Scientist** equipped with a solid background in Computer Science and Engineering. Presently, I am a dedicated 2-year **MSc** student in **Artificial Intelligence** at the University of Bologna, fueling my passion to explore the depths of AI and NLP. Beyond my academic journey, I've been actively involved in hands-on NLP research. My passion lies in harnessing the potential of AI and NLP to fuel innovation and tackle intricate challenges.
 
 # Unveiling My Journey
 Dedicated advocate of deliberate practice, I channel my fervor for the world of AI into continuous skill enhancement. My journey unfolds through Python-powered projects, while also harnessing the capabilities of:
 
 * NumPy & SciPy for scientific computations
 * Pandas and parallel optimizations like Dask
-* ML/DL solutions with Sklearn, PyTorch (w/ Lightning)
-* NLP using HuggingFace 🤗, SpaCy, and BERTopic
-* Docker (w/ Compose) & Kubernetes for orchestrating services
+* ML/DL solutions with Sklearn and PyTorch (sometimes Lightning ⚡️)
+* NLP using HuggingFace 🤗, LangChain, LlamaIndex and BERTopic
+* Docker (Compose if needed) & Kubernetes for orchestrating services
 * Proficient in AWS tools, including SageMaker, S3, Athena, ECS, EKS
 * Pgmpy for probabilistic modeling through Bayesian Networks
 * PROLOG for logic programming
