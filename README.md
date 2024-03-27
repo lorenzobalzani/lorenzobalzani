@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Lorenzo, an **NLP Data Scientist** with a strong foundation in Computer Science and Engineering. Currently, I am a dedicated 2-year **MSc** student in **Artificial Intelligence** at the University of Bologna, striving to delve deeper into the realm of AI and NLP. Alongside my academic pursuits, I’ve actively engaged in practical NLP research. I’m passionate about leveraging the power of AI and NLP to drive innovation and solve complex challenges.
+I'm Lorenzo, an **NLP Engineer** with a strong foundation in Computer Science and Engineering. Currently, I am a dedicated 2-year **MSc** student in **Artificial Intelligence** at the University of Bologna, striving to delve deeper into the realm of AI and NLP. Alongside my academic pursuits, I’ve actively engaged in practical NLP research. I’m passionate about leveraging the power of AI and NLP to drive innovation and solve complex challenges.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzobalzani)](https://github.com/anuraghazra/github-readme-stats)
 
