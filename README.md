@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Lorenzo, an **AI Engineer** with a strong foundation in Computer Science and Engineering. Currently, I am a dedicated 2-year **MSc** student in **Artificial Intelligence** at the University of Bologna, striving to delve deeper into the realm of AI and NLP. Alongside my academic pursuits, I’ve actively engaged in practical NLP research. I’m passionate about leveraging the power of AI and NLP to drive innovation and solve complex challenges.
+I am an **AI Engineer** with a solid foundation in Computer Science and Engineering, specializing in optimizing the development, training, and deployment of LLM-based solutions. My current focus is on driving **GenAI** innovation within the financial industry, bridging software engineering and AI applications to streamline business processes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzobalzani)](https://github.com/anuraghazra/github-readme-stats)
 
