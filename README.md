@@ -1,6 +1,6 @@
 # Lorenzo Balzani
 
-**Co-Founder & CTO** at [Always Friday](https://www.alwaysfriday.it)
+**Co-Founder & CTO** at [Always Friday](https://www.alwaysfriday.ai)
 
 Building the first humanless event agency, an AI-native platform that autonomously plans and executes corporate events from start to finish. As CTO, I drive the technical vision behind our AI-based products serving 100+ customers.
 
@@ -32,5 +32,5 @@ Open to conversations about AI in enterprise software, technical leadership, and
 
 <a href="https://www.linkedin.com/in/lorenzobalzani/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:lorenzo.balzani@alwaysfriday.it"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30px" alt="icloud_mail"></a>
+<a href="mailto:lorenzo.balzani@alwaysfriday.ai"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30px" alt="icloud_mail"></a>
 &nbsp; &nbsp;
